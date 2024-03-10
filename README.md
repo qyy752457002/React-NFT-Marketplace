@@ -1,3 +1,4 @@
+![image](https://github.com/qyy752457002/React-NFT-Marketplace/assets/88706924/e8c1030e-fcf2-4f07-aac1-c232241f2d17)
 ![image](https://github.com/qyy752457002/React-NFT-Marketplace/assets/88706924/11da5928-23ae-4024-b4c5-8ee1160b10be)
 ![image](https://github.com/qyy752457002/React-NFT-Marketplace/assets/88706924/6844fe8b-e378-4f16-a165-94c10816970e)
 ![image](https://github.com/qyy752457002/React-NFT-Marketplace/assets/88706924/35f4b430-bee4-4a43-a8fa-eb0f25b9a2a5)
